@@ -5,9 +5,12 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
-    path: Assets/Scenes/Tugas.unity
+  - enabled: 0
+    path: Assets/Scenes/Tugas2.unity
     guid: 1be8bde0acdf5a442bd8685f16078bfd
+  - enabled: 1
+    path: Assets/Scenes/Tugas1.unity
+    guid: 4ef7af2088e7fa14491649c74d232880
   - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab

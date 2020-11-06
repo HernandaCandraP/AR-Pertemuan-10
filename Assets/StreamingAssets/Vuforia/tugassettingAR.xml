@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
-    <ImageTarget name="barcodemerge" size="50.000000 24.057142" />
+    <ImageTarget name="merge" size="50.000000 25.306623" />
     <ImageTarget name="barcode-whatsapp" size="50.000000 50.000000" />
     <ImageTarget name="barcode" size="50.000000 45.406979" />
   </Tracking>
